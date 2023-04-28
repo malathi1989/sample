@@ -1,0 +1,63 @@
+
+h1
+{
+
+	text-shadow: 1px 1px white ;
+	text-align: center;
+	padding:25px 0px;
+}
+
+.input_box 
+{ 
+   width:250px;
+   height:40px;    
+   border-radius: 15px ;
+  
+} 
+.address{
+   width:250px;
+   height:60px; 
+
+}
+.log_in 
+{ 
+  
+ width: 100px; 
+ height: 40px;  
+ border-radius: 15px;
+ cursor: pointer; 
+ text-align: center; 
+ background-color: #95B9C7;
+ font-size:15px ;
+
+} 
+.form_icon 
+{ 
+ 
+  Padding:4px;
+  
+} 
+
+ .menu div
+{
+	 margin-left: 30%;
+	 width:250px;
+   height:50px; 
+   padding:25px; 
+   border:solid;
+   border-radius: 15px ;  
+   background-color: skyblue;
+   text-align: center;
+
+}
+.menu div a, .head div a
+{
+   
+    text-decoration: none;
+    color: black;
+
+ }
+.menu div:hover, .head div:hover
+{
+	opacity: 0.7;
+}
